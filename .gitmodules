@@ -1,0 +1,3 @@
+[submodule "Externals/EasySgml"]
+	path = Externals/EasySgml
+	url = git@github.com:rasberry/EasySgml.git
